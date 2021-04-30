@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "af_client",
+    "af_common",
+    "af_server"
+]
